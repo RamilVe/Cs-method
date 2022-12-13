@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cs method", "Cs method\Cs method.csproj", "{A59EE1F7-ECAC-41BF-BB8E-AA3E5F8DFE2A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A59EE1F7-ECAC-41BF-BB8E-AA3E5F8DFE2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A59EE1F7-ECAC-41BF-BB8E-AA3E5F8DFE2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A59EE1F7-ECAC-41BF-BB8E-AA3E5F8DFE2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A59EE1F7-ECAC-41BF-BB8E-AA3E5F8DFE2A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9D429641-15B8-4EC1-9EC9-4E672C90D08C}
+	EndGlobalSection
+EndGlobal

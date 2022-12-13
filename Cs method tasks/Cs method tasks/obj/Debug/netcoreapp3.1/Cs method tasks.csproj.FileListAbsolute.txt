@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Cs method tasks\Cs method tasks\bin\Debug\netcoreapp3.1\Cs method tasks.exe
+C:\Users\User\source\repos\Cs method tasks\Cs method tasks\bin\Debug\netcoreapp3.1\Cs method tasks.deps.json
+C:\Users\User\source\repos\Cs method tasks\Cs method tasks\bin\Debug\netcoreapp3.1\Cs method tasks.runtimeconfig.json
+C:\Users\User\source\repos\Cs method tasks\Cs method tasks\bin\Debug\netcoreapp3.1\Cs method tasks.runtimeconfig.dev.json
+C:\Users\User\source\repos\Cs method tasks\Cs method tasks\bin\Debug\netcoreapp3.1\Cs method tasks.dll
+C:\Users\User\source\repos\Cs method tasks\Cs method tasks\bin\Debug\netcoreapp3.1\Cs method tasks.pdb
+C:\Users\User\source\repos\Cs method tasks\Cs method tasks\obj\Debug\netcoreapp3.1\Cs method tasks.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Cs method tasks\Cs method tasks\obj\Debug\netcoreapp3.1\Cs method tasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Cs method tasks\Cs method tasks\obj\Debug\netcoreapp3.1\Cs method tasks.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Cs method tasks\Cs method tasks\obj\Debug\netcoreapp3.1\Cs method tasks.AssemblyInfo.cs
+C:\Users\User\source\repos\Cs method tasks\Cs method tasks\obj\Debug\netcoreapp3.1\Cs method tasks.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Cs method tasks\Cs method tasks\obj\Debug\netcoreapp3.1\Cs method tasks.dll
+C:\Users\User\source\repos\Cs method tasks\Cs method tasks\obj\Debug\netcoreapp3.1\Cs method tasks.pdb
+C:\Users\User\source\repos\Cs method tasks\Cs method tasks\obj\Debug\netcoreapp3.1\Cs method tasks.genruntimeconfig.cache
